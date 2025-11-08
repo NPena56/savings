@@ -23,7 +23,7 @@ header{
     justify-content: flex-end;
     align-items: center;
     padding: 30px 10%;
-   background-image:url(sub/programming-pic.png);
+   background-image:url(/pictures/programming-pic.png);
    background-color: rgb(101, 84, 148);
    background-position: center;
     background-repeat: no-repeat; 
